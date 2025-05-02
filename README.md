@@ -15,7 +15,7 @@ Install dependencies using:
 pip install numpy pandas matplotlib seaborn scipy
 
 Additionally, download the required data files:
-note that mapped.bed and query.bed files are not uploded in this repo due to their size. you will find here [query.bed.gz](https://figshare.com/ndownloader/files/53306780?private_link=727f8d920a1b8415f09a)  [mapped.bed.gz](https://figshare.com/ndownloader/files/49307590?private_link=972ecdfe69d6ce038ca0)
+note that mapped.bed and query.bed files are not uploded in this repo due to their size. you will find here [query.bed.gz](https://figshare.com/ndownloader/files/53306780?private_link=727f8d920a1b8415f09a)  and [mapped.bed.gz](https://figshare.com/ndownloader/files/49307590?private_link=972ecdfe69d6ce038ca0)
 Place these files in a data/ directory within the project folder.
 
 
